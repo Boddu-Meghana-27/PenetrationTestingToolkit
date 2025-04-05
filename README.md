@@ -53,6 +53,10 @@ The tool is fully terminal-based and runs on **Windows CMD** or any Python-suppo
 
 ```bash
 pip install requests
-![PTT2](https://github.com/user-attachments/assets/cd07b282-b96e-4ddb-bf98-a0d151ea9284)
-![PTT1](https://github.com/user-attachments/assets/c996f4e6-daab-4f27-8e18-555601398558)
+
+
+
+
+
+
 
